@@ -18,7 +18,7 @@ Formação Full-Stack, promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto página de receita" src="./assets/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
